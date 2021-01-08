@@ -221,7 +221,7 @@ Publish the website in the given URL.
         </div>
     </div>
     {% endblock  %}
-    ```
+```
 
 # contactus.html
 
@@ -246,8 +246,11 @@ Publish the website in the given URL.
 ```
 ## OUTPUT:
 ![output](./static/img/homeoutput.jpg)
+
 ![output](./static/img/productoutput.jpg)
+
 ![output](./static/img/peopleoutput.jpg)
+
 ![output](./static/img/contactusoutput.jpg)
 
 
@@ -258,4 +261,4 @@ Publish the website in the given URL.
 ![output](./static/img/contactus.jpg)
 
 ## RESULT:
-Thus a website is designed for the chip manufacturing company and is hosted in the URL http://swetha.student.saveetha.in:8000/ HTML code is validated 
+Thus a website is designed for the chip manufacturing company and is hosted in the URL http://swetha.student.saveetha.in:8000/ HTML code is validated.
